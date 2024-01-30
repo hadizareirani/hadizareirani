@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I'm learning Jasmine, and NestJS and want to improve at Angular.<br>⚡I believe in the power of programming to transform and improve the lives of people around the world.<br><br>💬You can ask me about JavaScript and TypeScript.
+🌱I'm learning NestJS and want to improve at Angular.<br>⚡I believe in the power of programming to transform and improve the lives of people around the world.<br><br>💬You can ask me about JavaScript and TypeScript.
 
 
 ## 🌐 Socials:

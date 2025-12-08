@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about Javascript and its frameworks.<br><br>⚡I believe in the power of programming to transform and improve the lives of people around the world.
+💬 Ask me about JavaScript and its frameworks.<br><br>⚡I believe in the power of programming to transform and improve the lives of people around the world.
 
 
 ## 🌐 Socials:
